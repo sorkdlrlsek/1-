@@ -1,6 +1,4 @@
-# WorldPay 결제 관리 시스템
-
-## VPC Peering + ALB + NLB 인프라 구성 가이드
+# VPC Peering + ALB + NLB 인프라 구성 가이드
 
 ---
 
