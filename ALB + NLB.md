@@ -214,6 +214,12 @@ CREATE TABLE user (
 | TCP | 8080 | `0.0.0.0/0` | ALB 헬스체크 및 트래픽 수신 |
 | SSH (TCP) | 22 | `0.0.0.0/0` | Bastion을 통한 SSH 접근 |
 
+**IAM**
+
+| 정책 |
+|---|
+| SecretsManagerReadWrite | CloudWatchAgentServerPolicy |
+
 ---
 
 ## Task 6 - ALB (Application Load Balancer) 구성
