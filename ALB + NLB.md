@@ -216,10 +216,9 @@ CREATE TABLE user (
 
 **IAM**
 
-| 정책 |
+| 연결해야 하는 정책 |
 |---|
 | SecretsManagerReadWrite |
-|---|
 | CloudWatchAgentServerPolicy |
 
 ---
