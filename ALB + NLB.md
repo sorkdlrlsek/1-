@@ -218,7 +218,9 @@ CREATE TABLE user (
 
 | 정책 |
 |---|
-| SecretsManagerReadWrite | CloudWatchAgentServerPolicy |
+| SecretsManagerReadWrite |
+|---|
+| CloudWatchAgentServerPolicy |
 
 ---
 
